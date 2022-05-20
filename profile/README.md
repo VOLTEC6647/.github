@@ -1,9 +1,9 @@
-Hi 👋 My name is Voltec Robotics #6647
+Hi!! We are Voltec Robotics 6647 
 ======================================
 
-Robotics team from Monterrey, Nuevo León meant for high school students to experience engineering trough FIRST
+Robotics team from Monterrey, Nuevo León meant for high school students to experience engineering trough the core values of FIRST
 
-* 🌍  I'm based in Monterrey
+* 🌍  We belong to Prepa Tec Garza Lagüera
 
 <a href="https://www.twitter.com/voltec6647" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/voltec6647?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"

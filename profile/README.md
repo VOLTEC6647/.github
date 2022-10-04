@@ -1,9 +1,7 @@
-Hi!! We are Voltec Robotics 6647 
+Welcome, we are VOLTEC Robotics 6647
 ======================================
 
-Robotics team from Monterrey, Nuevo León meant for high school students to experience engineering trough the core values of FIRST
-
-* 🌍  We belong to Prepa Tec Garza Lagüera
+We are PrepaTec Eugenio Garza Laguera's robotics team located in Monterrey, Nuevo Leon. We aim at providing young students with engineering experience through FIRST and other STEM competitions.
 
 <a href="https://www.twitter.com/voltec6647" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/voltec6647?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
@@ -26,8 +24,6 @@ src="https://img.shields.io/github/followers/VOLTEC6647?logo=github&style=for-th
 ### Socials
 
 <p align="left"> <a href="https://www.facebook.com/VOLTECrobotics6647" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/VOLTEC6647" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/voltecrobotics6647" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/voltec6647" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-
 
 <b>Top Repositories</b>
 

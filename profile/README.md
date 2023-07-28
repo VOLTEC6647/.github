@@ -26,7 +26,3 @@ src="https://img.shields.io/github/followers/VOLTEC6647?logo=github&style=for-th
 ### Socials
 
 <p align="left"> <a href="https://www.facebook.com/VOLTECrobotics6647" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/VOLTEC6647" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/voltecrobotics6647" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/voltec6647" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/VOLTEC6647/Voltec-2022" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=VOLTEC6647&repo=Voltec-2022&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />

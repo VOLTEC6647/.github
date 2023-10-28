@@ -1,3 +1,6 @@
+![teamphoto.jpg](https://drive.google.com/uc?export=view&id=13lh8kNtFvv08_luXdeYMMMSd500aoa_r)
+
+
 Welcome, we are VOLTEC Robotics 6647
 ======================================
 
